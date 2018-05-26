@@ -1,2 +1,2 @@
 # Telegram
-Experiments with Telegram with NLP
+Experiments with Telegram and  NLP
